@@ -2,5 +2,5 @@ site_name: CTGU-ACM
 site_url: https://example.com/
 nav:
   - Home: index.md
-  - About: about.md
+  - 成员信息: members.md
 theme: readthedocs

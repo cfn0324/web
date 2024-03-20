@@ -1,17 +1,8 @@
 # 三峡大学 ACM 集训队
 
-三峡大学 ACM 集训队很牛逼
+三峡大学 ACM 集训队从属于三峡大学计算机与信息学院，在近几年的历史中代表华中科技大学多次出征程序设计竞赛（国际大学生程序设计竞赛(ICPC)、中国大学生程序设计竞赛(CCPC)、蓝桥杯全国软件和信息技术专业人才大赛、团体程序设计天梯赛(CCCC-GPLT)），并围绕于此组织选手的选拔、训练、培养以及科普等活动。
 
-## Commands
+集训队近年来战绩：
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* 集训队共获得 ICPC 奖牌 x 金 x 银 x 铜，CCPC 奖牌 x 金 x 银 x 铜。
+* 2024年我队成员 xx 人，得到国家级金奖的共 xx 人。目前校队规模保持在xx-xx人。
