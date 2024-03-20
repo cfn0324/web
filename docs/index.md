@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# 三峡大学 ACM 集训队
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+三峡大学 ACM 集训队很牛逼
 
 ## Commands
 
