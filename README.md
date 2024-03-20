@@ -4,5 +4,5 @@ mkdocs build
 mkdocs gh-deploy
 git add .
 git commit -m "web"
-git push origin main
+git push origin main:main
 ```
