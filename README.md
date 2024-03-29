@@ -4,9 +4,9 @@ pip install mkdocs
 ```
 # Fork此库
 
-# clone此库
+# clone自己复制过去的库
 ```
-git clone https://github.com/ctguacm/ctguacm.github.io.git
+git clone 刚刚那个库
 ```
 # 网站部署
 ```
